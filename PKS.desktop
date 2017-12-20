@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=PKS Test
+Comment=Run PKS_Test.sh
+Exec=/home/fernando/Applications/pkstest/PKS_Test.sh
+Icon=/home/fernando/Applications/pkstest/pks.png
+Terminal=false
+Type=Application
